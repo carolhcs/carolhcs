@@ -9,7 +9,7 @@
 
 <p align="center">
 	<a href="https://twitter.com/carol_hcs" target="blank"><img src="https://img.shields.io/twitter/follow/carol_hcs?logo=twitter&style=for-the-badge" alt="carol_hcs" /></a>
-	<a href="#"><img src="svg/blogs/blogger.svg" alt="blogger" style="vertical-align:top; margin:6px 4px"></a>  
+	<!-- <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/blogger.svg" alt="blogger" /></a> -->
 </p>
 
 
