@@ -8,10 +8,8 @@
 -->
 
 <p align="center">
-	<a href="https://github.com/carolhcs"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/carol_hcs"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/héllen-caroline-salvato-23702191"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://scholar.google.com/citations?user=3BWvD3oAAAAJ&hl=pt-BR"><img src="https://img.shields.io/badge/Citations-1.2k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
+	<a href="https://twitter.com/carol_hcs" target="blank"><img src="https://img.shields.io/twitter/follow/carol_hcs?logo=twitter&style=for-the-badge" alt="carol_hcs" /></a>
+	<a href="#"><img src="svg/blogs/blogger.svg" alt="blogger" style="vertical-align:top; margin:6px 4px"></a>  
 </p>
 
 
@@ -53,6 +51,12 @@
 <!--
 <a href="https://github.com/sponsors/terrytangyuan"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
 <p align="left"><a href="https://twitter.com/carol_hcs" target="blank"><img src="https://img.shields.io/twitter/follow/carol_hcs?logo=twitter&style=for-the-badge" alt="carol_hcs" /></a></p>
+<p align="center">
+	<a href="https://github.com/carolhcs"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/carol_hcs"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/héllen-caroline-salvato-23702191"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://scholar.google.com/citations?user=3BWvD3oAAAAJ&hl=pt-BR"><img src="https://img.shields.io/badge/Citations-1.2k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
+</p>
 **carolhcs/carolhcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
