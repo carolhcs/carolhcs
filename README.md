@@ -41,7 +41,6 @@
 <a href="https://www.youtube.com/channel/UCvQvcK1CaBJULBCEUYoUyLA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="carol salvato" height="30" width="40" /></a>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carolhcs)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carolhcs&show_icons=true&locale=en&layout=compact" alt="carolhcs" />
   
 </p>
