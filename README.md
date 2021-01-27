@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi - [See my portfolio page](https://carolsalvato.com) [<carolsalvato.com>](https://carolsalvato.com) 👋
 <h1 align="center">carolhcs - Carol Salvato</h1>
 <h3 align="center">A Researcher & Developer of Intelligent Systems for Games</h3>
 
@@ -42,6 +42,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carolhcs&show_icons=true&locale=en&layout=compact" alt="carolhcs" />
   
+![Carol Salvato](https://github.com/carolsalvato/carolsalvato.github.io/blob/master/Website%20Carol%20Salvato.png?raw=true)
+
 </p>
 </details>
 
