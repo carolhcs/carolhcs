@@ -29,6 +29,9 @@
 	<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>     
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolhcs&theme=midnight-purple)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolhcs&theme=midnight-purple&show_icons=true)
+
 <details><summary>MORE</summary>
 <h3 align="left">Connect with me:</h3>
 <p>
@@ -53,8 +56,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/javascript.png?raw=true" alt="javascript" width="40" height="40"/> </a>
 <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carolhcs&theme=gruvbox_duo)](https://git.io/streak-stats)
 
 <a href="https://github.com/sponsors/terrytangyuan"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
 <p align="left"><a href="https://twitter.com/carol_hcs" target="blank"><img src="https://img.shields.io/twitter/follow/carol_hcs?logo=twitter&style=for-the-badge" alt="carol_hcs" /></a></p>
