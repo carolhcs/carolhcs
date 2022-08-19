@@ -21,13 +21,73 @@
 
 
 <h3 align="left">Main Languages and Tools:</h3>
-<p align="left"> 
-	<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-	<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-	<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png?raw=true" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
-	<a href="https://www.python.org" target="_blank"> <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png?raw=true" alt="python" width="40" height="40"/> </a> 
-	<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>     
-</p>
+
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>C#</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>C++</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+            </td>
+	    <td width="80px" align="center">
+            <span><strong>VSC</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+	    </td>
+	    <td width="80px" align="center">
+            <span><strong>Anaconda</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+	    </td>
+	    <td width="80px" align="center">
+            <span><strong>Netbeans</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
+	    </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Unity</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Unreal</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Blender</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+	    </td>
+	    <td width="80px" align="center">
+            <span><strong>Inkscape</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Gimp</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+            </td>
+	    <td width="80px" align="center">
+            <span><strong>Krita</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Krita_Application_Logo.svg">
+	    </td>
+	    <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+	    </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3 align="left">Github Stats:</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolhcs&theme=midnight-purple)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolhcs&theme=midnight-purple&show_icons=true)
