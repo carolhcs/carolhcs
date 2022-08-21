@@ -1,5 +1,5 @@
 ### Hi - [carolsalvato.com](https://carolsalvato.com) 👋
-<h1 align="center">carolhcs - Carol Salvato</h1>
+<h1 align="center">Carol Salvato (carolhcs) </h1>
 <h3 align="center">Researcher & Developer of Intelligent Systems for Games and Games for All</h3>
 
 <!-- 
@@ -20,9 +20,9 @@
 - 📝 I regulary write articles on [https://algamecode.blogspot.com/](https://algamecode.blogspot.com/) and [carolsalvato.com](https://carolsalvato.com)
 
 
-<h3 align="left">Main Languages and Tools:</h3>
+<h3 align="center">Main Languages and Tools:</h3>
 
-<table width="320px">
+<table width="320px" align="center">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -87,10 +87,26 @@
     </tbody>
 </table>
 
-<h3 align="left">Github Stats:</h3>
+<h3 align="center">Github Stats:</h3>
+<table width="500px" align="center">
+<tbody>
+<tr>
+<td width="300px" align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolhcs&langs_count=10&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+
+<td width="450px" align="center">
+			
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolhcs&theme=midnight-purple)](https://git.io/streak-stats)
+			
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolhcs&theme=midnight-purple&show_icons=true)
+			
+</td>
+</tr>
+<tbody>
+</table>
 
 <details><summary>MORE</summary>
 <h3 align="left">Connect with me:</h3>
