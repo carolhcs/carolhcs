@@ -1,27 +1,10 @@
-### Hi - [carolsalvato.com](https://carolsalvato.com) 👋
+### [carolsalvato.com](https://carolsalvato.com)
 <h1 align="center">Carol Salvato (carolhcs) </h1>
 <h3 align="center">Researcher & Developer of Intelligent Systems for Games and Games for All</h3>
 
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolhcs" alt="carolhcs" /></a> </p> 
--->
-
-<p align="center">
-	<a href="https://twitter.com/carol_hcs" target="blank"><img src="https://img.shields.io/twitter/follow/carol_hcs?logo=twitter&style=for-the-badge" alt="carol_hcs" /></a>
-	<!-- <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/blogger.svg" alt="blogger" /></a> -->
-</p>
-
-
-
-- 🔭 I’m currently working on **game development**
-
-- 🌱 I have been working on research and development on my project [Artificial Life Game Code](https://algamecode.blogspot.com/)
-
-- 📝 I regulary write articles on [https://algamecode.blogspot.com/](https://algamecode.blogspot.com/) and [carolsalvato.com](https://carolsalvato.com)
-
 <!-- ----------------------------------------------------------------------------------------------------------------------------- -->
 
-<h3 align="center">Main Languages and Tools:</h3>
+<h3 align="center">:coffee: Main Languages and Tools:</h3>
 
 <table width="320px" align="center">
     <tbody>
@@ -89,22 +72,93 @@
 </table>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------- -->
-<!-- https://github.com/Ileriayo/markdown-badges  -->
 
-<h3 align="center">Badges and External Links:</h3>
+<h3 align="center">:video_game: My Games and Portfolios</h3>
 <table width="500px" align="center">
 <tbody>
 <tr>
-<td width="800px" align="center">
+<td width="900px" align="center">
+
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://carolsalvato.itch.io/)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carolhcs/)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white)](https://carolsalvato.artstation.com/)
+
+</td>
+</tr>
+<tbody>
+</table>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------- -->
+<!-- https://github.com/Ileriayo/markdown-badges  ou https://home.aveek.io/GitHub-Profile-Badges/-->
+
+<h3 align="center">:space_invader: My Contents and Social:</h3>
+<table width="500px" align="center">
+<tbody>
+<tr>
+<td width="400px" align="center">
+
+</td>
+<td width="500px" align="center">
+
+- :octopus: I constantly create free content on the internet, in the form of articles, videos and lives. In general, my content is related to the things I really like, which are:
+
+  - *Game Development;*
+  - *Development of intelligent systems applied to games;*
+  - *Art for Games and Comics;*
+  - *Gameplays, movies, series, books, comics and more;*
 
 [![WordPress](https://img.shields.io/badge/CarolSalvato-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://carolsalvato.com/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://algamecode.blogspot.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@carolhcs)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/carolsalvato)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/carol_HCS)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9llen-caroline-salvato-23702191/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCvQvcK1CaBJULBCEUYoUyLA)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/carol_HCS)
 [![Discord](https://img.shields.io/badge/CarolSalvato-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZCxeZbaZCF)
+
+</td>
+</tr>
+<tbody>
+</table>
+
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------- -->
+
+<h3 align="center">:computer: Jobs or Freela:</h3>
+<table width="500px" align="center">
+<tbody>
+<tr>
+<td width="400px">
+
+- :video_game: I’m currently working on **Game Development**:
+  - *GDD (Documentation);*
+  - *Code (C# Programming on Unity);*
+  - *Game Test;*
+- :e-mail: Contact me **[contato@carolsalvato.com](https://algamecode.blogspot.com/)**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9llen-caroline-salvato-23702191/)
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
+
+</td>
+
+<td width="500px" align="center">
+
+</td>
+
+</tr>
+<tbody>
+</table>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------- -->
+<!-- https://github.com/Ileriayo/markdown-badges  ou https://home.aveek.io/GitHub-Profile-Badges/-->
+
+<h3 align="center">:shipit: Others Tools and External Links:</h3>
+<table width="500px" align="center">
+<tbody>
+<tr>
+<td width="900px" align="center">
+
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/carolhcs0)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hellen-Caroline-Salvato)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10236383/carolhcs)
@@ -116,8 +170,6 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carolhcs/)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://carolsalvato.itch.io/)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
@@ -144,6 +196,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -158,6 +211,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=OBS-Studio&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -166,7 +220,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+![Draw.io](https://img.shields.io/badge/draw.io-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 	
 </td>
 </tr>
@@ -175,17 +230,17 @@
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------- -->
 
-<h3 align="center">Github Stats:</h3>
-<table width="500px" align="center">
+<h3 align="center">:octocat: Github Stats:</h3>
+<table width="900px" align="center">
 <tbody>
 <tr>
-<td width="300px" align="center">
+<td width="400px" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolhcs&langs_count=10&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 
-<td width="450px" align="center">
+<td width="500px" align="center">
 			
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolhcs&theme=midnight-purple)](https://git.io/streak-stats)
 			
@@ -209,11 +264,27 @@
 <a href="https://medium.com/@carolhcs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@carolhcs" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCvQvcK1CaBJULBCEUYoUyLA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="carol salvato" height="30" width="40" /></a>
 </p>
+<h3 align="left">Credits and References:</h3>
+<p>
 
+[Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+[Emojis](https://gist.github.com/rxaviers/7360908)
+
+[Badges](https://github.com/Ileriayo/markdown-badges)
+
+[Badges](https://home.aveek.io/GitHub-Profile-Badges/)
+
+[Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+</p>
 </p>
 </details>
 
 
+
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolhcs" alt="carolhcs" /></a> </p> -->
 <!--
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
