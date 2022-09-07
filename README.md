@@ -150,6 +150,32 @@
 <tbody>
 </table>
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h3 align="center">:mortar_board: I'm always specializing:</h3>
+<table width="500px" align="center">
+<tbody>
+<tr>
+<td width="400px" align="center">
+
+</td>
+<td width="500px" align="center">
+
+:alien: I am constantly specializing, studying and researching on subjects that interest me and my area of work.
+
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/cd9b5d4d4de4cb9f348e6d485bdaeb9b)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/carolhcs)
+[![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://profile.edx.org/u/carolhcs)
+[![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/carolhcs)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/hellen-caroline-salvato/)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+</td>
+</tr>
+<tbody>
+</table>
+
+
 <!-- ----------------------------------------------------------------------------------------------------------------------------- -->
 <!-- https://github.com/Ileriayo/markdown-badges  ou https://home.aveek.io/GitHub-Profile-Badges/-->
 
@@ -162,12 +188,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/carolhcs0)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hellen-Caroline-Salvato)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10236383/carolhcs)
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/cd9b5d4d4de4cb9f348e6d485bdaeb9b)
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/carolhcs)
-[![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://profile.edx.org/u/carolhcs)
-[![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/carolhcs)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/hellen-caroline-salvato/)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com.br/citations?user=3BWvD3oAAAAJ&hl=pt-BR)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carolhcs/)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
@@ -222,6 +243,9 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/draw.io-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
+![Mixamo](https://img.shields.io/badge/Mixamo-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white)
+![Instapaper](https://img.shields.io/badge/Instapaper-1F1F1F.svg?style=for-the-badge&logo=Instapaper&logoColor=white)
+![Pocket](https://img.shields.io/badge/Pocket-EF3F56.svg?style=for-the-badge&logo=Pocket&logoColor=white)
 	
 </td>
 </tr>
