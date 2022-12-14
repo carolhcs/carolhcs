@@ -135,6 +135,7 @@
   - *Code (C# Programming on Unity);*
   - *Game Test;*
   - *Concept Art;*
+  - *Comic;*
 - :e-mail: Contact me **[contato@carolsalvato.com](https://algamecode.blogspot.com/)**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9llen-caroline-salvato-23702191/)
