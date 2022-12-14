@@ -134,11 +134,12 @@
   - *GDD (Documentation);*
   - *Code (C# Programming on Unity);*
   - *Game Test;*
+  - *Concept Art;*
 - :e-mail: Contact me **[contato@carolsalvato.com](https://algamecode.blogspot.com/)**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9llen-caroline-salvato-23702191/)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/carolhcs)
 
 </td>
 
