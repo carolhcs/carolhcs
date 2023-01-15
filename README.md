@@ -1,6 +1,7 @@
 ### [carolsalvato.com](https://carolsalvato.com)
-<h1 align="center">Carol Salvato (carolhcs) </h1>
-<h3 align="center">Researcher & Developer of Intelligent Systems for Games and Games for All</h3>
+<div style="text-align: center;"><img src="https://img.itch.zone/aW1nLzExMDQyNDY4LnBuZw==/original/MBNCl5.png" ></div>
+<h3 align="center">Game Designer, Researcher & Developer of Intelligent Systems for Games and Games for All</h3>
+
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -83,7 +84,7 @@
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carolhcs/)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white)](https://carolsalvato.artstation.com/)
-
+	
 </td>
 </tr>
 <tbody>
@@ -98,6 +99,8 @@
 <tr>
 <td width="400px" align="center">
 
+![Eu Carol Salvato](https://carolsalvato.com/wp-content/uploads/2023/01/astronautaColors.png)
+	
 </td>
 <td width="500px" align="center">
 
