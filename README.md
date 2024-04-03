@@ -155,31 +155,6 @@
 <tbody>
 </table>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h3 align="center">:mortar_board: I'm always specializing:</h3>
-<table width="500px" align="center">
-<tbody>
-<tr>
-<td width="400px" align="center">
-
-</td>
-<td width="500px" align="center">
-
-:alien: I am constantly specializing, studying and researching on subjects that interest me and my area of work.
-
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/cd9b5d4d4de4cb9f348e6d485bdaeb9b)
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/carolhcs)
-[![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://profile.edx.org/u/carolhcs)
-[![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/carolhcs)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/hellen-caroline-salvato/)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-
-</td>
-</tr>
-<tbody>
-</table>
-
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------- -->
 <!-- https://github.com/Ileriayo/markdown-badges  ou https://home.aveek.io/GitHub-Profile-Badges/-->
@@ -191,6 +166,11 @@
 <td width="900px" align="center">
 
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/cd9b5d4d4de4cb9f348e6d485bdaeb9b)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/carolhcs)
+[![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://profile.edx.org/u/carolhcs)
+[![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](http://www.khanacademy.org/profile/carolhcs)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/hellen-caroline-salvato/)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hellen-Caroline-Salvato)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com.br/citations?user=3BWvD3oAAAAJ&hl=pt-BR)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
