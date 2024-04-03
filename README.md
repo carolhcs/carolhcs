@@ -1,5 +1,18 @@
 ### [carolsalvato.com](https://carolsalvato.com)
 <div style="text-align: center;"> :e-mail: <i>contato@carolsalvato.com</i> </div>
+</br>
+<!-- ----------------------------------------------------------------------------------------------------------------------------- -->
+
+<table width="500px" align="center">
+<tbody><tr><td width="900px" align="center">
+
+![Cave Carol Salvato](https://cdna.artstation.com/p/assets/images/images/068/333/572/large/carol-salvato-cortado-copia.jpg?1697557226)
+
+</td></tr><tbody>
+</table>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------- -->
+
 <h3 align="center">Game Designer, Researcher & Developer of Intelligent Systems for Games and Games for All</h3>
 
 
