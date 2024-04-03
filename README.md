@@ -1,5 +1,5 @@
 ### [carolsalvato.com](https://carolsalvato.com)
-<div style="text-align: center;"> :e-mail: Contact me **[contato@carolsalvato.com](https://algamecode.blogspot.com/)** </div>
+<div style="text-align: center;"> :e-mail: <i>contato@carolsalvato.com</i> </div>
 <h3 align="center">Game Designer, Researcher & Developer of Intelligent Systems for Games and Games for All</h3>
 
 
@@ -83,6 +83,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9llen-caroline-salvato-23702191/)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://carolsalvato.itch.io/)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white)](https://carolsalvato.artstation.com/)
+[![WordPress](https://img.shields.io/badge/CarolSalvato-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://carolsalvato.com/)
 <!-- ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carolhcs/) -->
 
