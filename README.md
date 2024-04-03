@@ -1,5 +1,5 @@
 ### [carolsalvato.com](https://carolsalvato.com)
-<div style="text-align: center;"><img src="https://img.itch.zone/aW1nLzExMDQyNDY4LnBuZw==/original/MBNCl5.png" ></div>
+<div style="text-align: center;"> :e-mail: Contact me **[contato@carolsalvato.com](https://algamecode.blogspot.com/)** </div>
 <h3 align="center">Game Designer, Researcher & Developer of Intelligent Systems for Games and Games for All</h3>
 
 
@@ -80,10 +80,12 @@
 <tr>
 <td width="900px" align="center">
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9llen-caroline-salvato-23702191/)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://carolsalvato.itch.io/)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carolhcs/)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white)](https://carolsalvato.artstation.com/)
+<!-- ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carolhcs/) -->
+
 	
 </td>
 </tr>
@@ -123,38 +125,6 @@
 </tr>
 <tbody>
 </table>
-
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------- -->
-
-<h3 align="center">:computer: Jobs or Freela:</h3>
-<table width="500px" align="center">
-<tbody>
-<tr>
-<td width="400px">
-
-- :video_game: I’m currently working on **Game Development**:
-  - *GDD (Documentation);*
-  - *Code (C# Programming on Unity);*
-  - *Game Test;*
-  - *Concept Art;*
-  - *Comic;*
-- :e-mail: Contact me **[contato@carolsalvato.com](https://algamecode.blogspot.com/)**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9llen-caroline-salvato-23702191/)
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/carolhcs)
-
-</td>
-
-<td width="500px" align="center">
-
-</td>
-
-</tr>
-<tbody>
-</table>
-
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------- -->
 <!-- https://github.com/Ileriayo/markdown-badges  ou https://home.aveek.io/GitHub-Profile-Badges/-->
@@ -210,6 +180,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/draw.io-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/carolhcs)
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/carolhcs0)   -->
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10236383/carolhcs)   -->
 <!-- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  -->
